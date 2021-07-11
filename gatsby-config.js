@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Dox - Gatsby Theme`,
-    description: 'Documentation made easy with Gatsby',
-    author: 'MunifTanjim'
+    title: `برای ایرانی‌های آلمان`,
+    description: '',
+    author: ''
   },
   plugins: [
     {

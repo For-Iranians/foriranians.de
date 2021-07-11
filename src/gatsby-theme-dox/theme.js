@@ -6,6 +6,10 @@ export default {
         ...theme.colors,
         modes: {}
     },
+    fonts: {
+        ...theme.fonts,
+        body: 'Vazir, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+    },
     layout: {
         ...theme.layout,
         root: {

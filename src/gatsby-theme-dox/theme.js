@@ -4,7 +4,7 @@ export default {
     ...theme,
     colors: {
         ...theme.colors,
-        primary: "#7e57c2"
+        primary: "#e64a19"
     },
     fonts: {
         ...theme.fonts,

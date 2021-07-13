@@ -4,7 +4,13 @@ export default {
     ...theme,
     colors: {
         ...theme.colors,
-        primary: "#e64a19"
+        primary: "#e64a19",
+        modes: {
+            dark: {
+                text: '#011627',
+                background: '#FDFFFC'
+            }
+        }
     },
     fonts: {
         ...theme.fonts,

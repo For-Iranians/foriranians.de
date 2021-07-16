@@ -41,7 +41,7 @@ function SEO({ description, lang = `en`, meta = [], keywords = [], title }) {
         ].filter(Boolean)
       )}
     >
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="/style.css" />
     </Helmet>
   )
 }

@@ -9,7 +9,7 @@ Don't be shy then, follow these steps:
 1. Make sure that you've installed [Gatsby](https://github.com/gatsbyjs/gatsby) on your machine.
 2. Clone this repo on your machine and open it with an IDE/Editor.
 3. Apply your changes. You can find the docs that you see on the website in `/docs` directory as MarkDown files.
-4. Run the server locally to see if your changes are looking fine with this `gatsby develp` command.
+4. Run the server locally to see if your changes are looking fine with this `gatsby develop` command.
 5. Commit and push your changes on a fork of this repo, and last but not least, **create a PR for your changes**.
 
 Easy, right? Well, at this stage of the codebase we've only targeted the people with some technical knowledge for contribution. But the goal is to make this process as easy as possible in the future.
